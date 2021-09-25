@@ -1,2 +1,2 @@
 # emailPDF
-covert certificate to PDF and sned it
+covert certificate to PDF and send it
